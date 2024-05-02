@@ -1,0 +1,49 @@
+Package Includes
+
+Physical exam
+
+Complete Blood Count
+
+Fasting Blood Sugar
+
+HBA1C
+
+Lipid Profile
+
+Total Cholesterol
+
+Triglyceride
+
+LDL - Cholesterol
+
+HDL - Cholesterol
+
+Liver Function Test
+
+SGOT (AST)
+
+SGPT (ALT)
+
+Kidney Function Test
+
+Creatinine Plus GFR
+
+Uric Acid
+
+Anti-HBs
+
+HBsAg
+
+AFP
+
+Urine Examination
+
+Chest X-ray
+
+Electrocardiogram (EKG)
+
+Medical Report
+
+Samitivej Complimentary Voucher
+
+Hospital Service Fees
